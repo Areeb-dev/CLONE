@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Jul 2022 01:06:58 at https://sknups.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sknups.com/ -O1 "C:\Users\hp\Desktop\New folder\sknups" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:08:23	Warning: 	Link https://sknups.com/about/ not scanned (follow robots meta tag)
+01:08:24	Warning: 	Link https://sknups.com/drops-landing/ not scanned (follow robots meta tag)
+01:08:25	Warning: 	Link https://sknups.com/james-mack/ not scanned (follow robots meta tag)
+01:08:26	Warning: 	Link https://sknups.com/metamorphosis/ not scanned (follow robots meta tag)
+01:08:26	Warning: 	Link https://sknups.com/benny/ not scanned (follow robots meta tag)
+01:09:02	Warning: 	Link https://sknups.com/dg-sknups/ not scanned (follow robots meta tag)
+01:09:02	Warning: 	Moved Permanently for https://sknups.com/author/maxime/
+01:09:02	Warning: 	File has moved from https://sknups.com/author/maxime/ to https://sknups.com
+01:09:02	Error: 	"Not Found" (404) at link https://sknups.com/%22https:/sknups.com/wp-content/uploads/2022/05/irridescent_foil_v02_00247-300x169.png (from https://sknups.com/)
+01:09:02	Warning: 	Link https://sknups.com/frequently-asked-questions/ not scanned (follow robots meta tag)
+01:09:03	Error: 	"Not Found" (404) at link https://sknups.com/partners@sknups.com (from https://sknups.com/)
+01:09:03	Error: 	"Not Found" (404) at link https://sknups.com/hello@sknups.com (from https://sknups.com/)
+01:09:03	Warning: 	Link https://sknups.com/cookie-policy/ not scanned (follow robots meta tag)
+01:09:09	Error: 	"Bad Request" (400) at link https://sknups.com/wp-admin/admin-ajax.php (from https://sknups.com/)
+01:09:09	Warning: 	File not parsed, looks like binary: https://sknups.com/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur
+01:09:09	Error: 	"Not Found" (404) at link https://sknups.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+01:09:10	Warning: 	Moved Permanently for https://sknups.com/?p=2303
+01:09:10	Warning: 	File has moved from https://sknups.com/?p=2303 to https://sknups.com/timo-rusall-sknups/
+01:09:19	Error: 	"Not Found" (404) at link https://sknups.com/timo-rusall-sknups/partners@sknups.com (from https://sknups.com/timo-rusall-sknups/)
+01:09:19	Error: 	"Not Found" (404) at link https://sknups.com/timo-rusall-sknups/hello@sknups.com (from https://sknups.com/timo-rusall-sknups/)
+01:09:19	Warning: 	File not parsed, looks like binary: https://sknups.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+01:09:19	Warning: 	File not parsed, looks like binary: https://sknups.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 21 seconds : 163 links scanned, 153 files written (40796090 bytes overall) [36477424 bytes received at 258705 bytes/sec], 5900470 bytes transferred using HTTP compression in 78 files, ratio 18%
+(7 errors, 15 warnings, 0 messages)
